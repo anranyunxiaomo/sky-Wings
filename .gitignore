@@ -1,0 +1,10 @@
+.DS_Store
+*.app
+*.dmg
+build_dmg/
+build/
+.swiftpm/
+.build/
+*.app.zip
+FEATURE_LIST.md
+.ai/
