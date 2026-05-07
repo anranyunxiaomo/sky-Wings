@@ -12,12 +12,6 @@
 
 无论你是想要丝滑的纯中文使用体验，还是想通过本地网关零门槛直连 Nvidia NIM 上的顶级大模型（如 Llama 3.1 405B），只需一键，即可彻底解放你的生产力。
 
-### ☕️ 支持作者 (Buy me a coffee)
-如果这个工具为你节省了时间，提升了生产力，欢迎请作者喝杯咖啡！你的支持是我持续维护和优化的最大动力。
-<div align="left">
-  <img src="sky-wings-swiftui/assets/wechat_pay.jpg" width="250" alt="WeChat Pay QR Code"/>
-</div>
-
 ---
 
 ## ✨ 核心特性
@@ -87,6 +81,14 @@
 - UI 主线程 0 卡顿的极致进程调度
 
 **“专注 · 极简”** 是本工具最核心的原则。
+
+---
+
+## ☕️ 支持作者 (Buy me a coffee)
+如果这个工具为你节省了时间，提升了生产力，欢迎请作者喝杯咖啡！你的支持是我持续维护和优化的最大动力。
+<div align="center">
+  <img src="sky-wings-swiftui/assets/wechat_pay.jpg" width="250" alt="WeChat Pay QR Code"/>
+</div>
 
 ---
 *声明：本工具仅供学习与本地环境调试使用。修改本地客户端可能受到服务商的相关条款约束。*
